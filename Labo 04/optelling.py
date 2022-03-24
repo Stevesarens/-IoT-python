@@ -8,5 +8,5 @@ som = int(getal1)  + int(getal2)
 print('is:',som)
 if som == int(5):
     print('positief')
-elif som == '-':
+elif som == int(4):
     print('negatief')
